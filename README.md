@@ -1,5 +1,8 @@
-# Encryption-program
-Encrypts files using the Vernam algorithm
+# CryptoUI
 
-From a graphic interface the user can use one of the three offerd ranadom number generators in order to create the key that will be used to encrypt files from 
-computer using Vernam's algorithm.
+The application provides a user-friendly interface from which you can choose one of three random number generators, so that a key is created to encrypt a file of choice on your computer using Vernam's algorithm and then save it to a specific location.
+
+##Technologies
+- Java
+- Swing
+- Eclipse IDE
